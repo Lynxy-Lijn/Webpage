@@ -1,0 +1,21 @@
+0100001101
+0100110010
+0111010100
+1101001101
+
+The rules: 
+
+      0000           0101             1111              1010
+          |.                 |.                    |.                     |. 
+        00              01                   11                  10
+ 01 11 10    00  11 10         00 01 10       00 01 11 
+
+ 1.   0.   1.    0.   0.   1.          0.  1.   1.       0.   1.   0.
+
+Set alphabet_order from 01:26
+cruvejadepalte arry(4:2:5)
+word_tran
+Cap_letter_alphabet_order= alphabet_order+26
+
+Trans word_tran in order of alphabet_order into arry word_num
+Cruvejadepalte= word_num
